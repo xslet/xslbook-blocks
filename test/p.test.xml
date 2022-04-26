@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="application/xml" href="./sample.xsl"?>
+
+<xslbook>
+ <title>Paragraph</title>
+ <body>
+  <p>
+This is a paragraph.
+This is a paragraph.
+This is a paragraph.
+This is a paragraph.
+This is a paragraph.
+This is a paragraph.
+This is a paragraph.
+This is a paragraph.
+  </p>
+  <p>
+This is a paragraph, too.
+This is a paragraph, too.
+This is a paragraph, too.
+This is a paragraph, too.
+This is a paragraph, too.
+This is a paragraph, too.
+This is a paragraph, too.
+This is a paragraph, too.
+  </p>
+  <p>
+This is also a paragraph.
+This is also a paragraph.
+This is also a paragraph.
+This is also a paragraph.
+This is also a paragraph.
+This is also a paragraph.
+This is also a paragraph.
+This is also a paragraph.
+  </p>
+ </body>
+</xslbook>
+
